@@ -30,3 +30,7 @@ install.packages(c("here", "DESeq2", "ggplot2", "dplyr", "ggrepel",
                    "uwot", "multcomp", "rstatix", "ggpubr", "patchwork",
                    "writexl", "viridis", "pals", "khroma", "wesanderson",
                    "randomcoloR"))
+
+
+zenodo DOI:
+ DOI: 10.5281/zenodo.23326757

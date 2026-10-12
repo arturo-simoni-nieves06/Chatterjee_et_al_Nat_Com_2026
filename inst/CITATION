@@ -1,0 +1,10 @@
+citHeader("To cite this compendium in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title = "Chatterjee et al. Nature Communications 2026",
+  author = person("Arturo", "Simoni-Nieves"),
+  year = "2026",
+  note = "R research compendium",
+  url = "https://github.com/arturo-simoni-nieves06/Chatterjee_et_al_Nat_Com_2026"
+)

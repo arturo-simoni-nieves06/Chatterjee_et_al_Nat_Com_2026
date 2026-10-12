@@ -1,0 +1,10 @@
+Package: Chatterjee_et_al_Nat_Com_2026
+Title: Chatterjee_et_al_Nat_Com_2026
+Version: 0.0.0.9000
+Authors@R: 
+    person("Arturo", "Simoni-Nieves", email = "snar@xanum.uam.mx", role = c("aut", "cre"))
+Description: This study targets gain-of-function p53 mutations in ovarian cancer, hypothesizing that distinct mutants drive immunosuppression differently. Tailoring combination therapies to specific p53 mutations could turn immune-cold tumors into responsive malignancies, with potential across other cancers.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
